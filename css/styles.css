@@ -1,0 +1,286 @@
+.body {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+}
+.title {
+  font-family: "Raleway";
+  font-weight: 70;
+  font-size: 26px;
+  color: #2196f3;
+  line-height: 1, 625;
+  text-decoration: none;
+}
+.button1 {
+  font-weight: 500;
+  cursor: pointer;
+  text-decoration: none;
+  color: #2196f3;
+}
+.butto {
+  font-weight: 500;
+  color: #212121;
+  cursor: pointer;
+  text-decoration: none;
+}
+.link {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 0.785;
+  text-decoration: none;
+  color: #757575;
+}
+.link-line {
+  color: #2196f3;
+  text-decoration: none;
+}
+
+.top {
+  width: 696px;
+  height: 120px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+  color: #ffffff;
+  text-align: center;
+}
+.info {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 0.53;
+  color: #ffffff;
+  cursor: pointer;
+  width: 261px;
+  height: 50px;
+  background: #2196f3;
+}
+.sub {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 0.875;
+  color: #212121;
+}
+.text {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 0.58;
+  color: #757575;
+}
+.equipment {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 0.76;
+  color: #212121;
+}
+.name {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 16px;
+  color: #212121;
+}
+.job {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 0.84;
+  color: #757575;
+}
+.place {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+}
+.background {
+  width: 1600px;
+  left: -4px;
+  top: 80px;
+  background: #2f303a;
+}
+.lol {
+  width: 1600px;
+  height: 252px;
+  left: 0px;
+  top: 2158px;
+  background: #2f303a;
+}
+/*portafolio */
+
+.head {
+  font-family: "Raleway";
+  font-weight: 70;
+  font-size: 26px;
+  text-decoration: none;
+  color: #2196f3;
+  line-height: 1.625;
+}
+.but2 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  text-decoration: none;
+  color: #212121;
+}
+.but1 {
+  color: #2196f3;
+  font-weight: 500;
+  text-decoration: none;
+  cursor: pointer;
+}
+.contacts {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  color: #757575;
+}
+.product {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+.description {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+.place {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+.fond {
+  width: 1600px;
+  height: 252px;
+  left: 0px;
+  top: 2158px;
+  background: #2f303a;
+}
+.ul {
+  list-style: none;
+}
+.button-a {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: #ffffff;
+  line-height: 26px;
+  width: 73px;
+  height: 38px;
+  background: #2196f3;
+  border-radius: 4px;
+}
+.button-b {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  color: #212121;
+  width: 128px;
+  height: 38px;
+  background: #f5f4fa;
+  border-radius: 4px;
+}
+.button-c{
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  color: #212121;
+  width: 145px;
+  height: 38px;
+  background: #f5f4fa;
+  border-radius: 4px;
+}
+.button-d {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  color: #212121;
+  width: 103px;
+  height: 38px;
+  background: #f5f4fa;
+  border-radius: 4px;
+}
+.button-e {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  color: #212121;
+  width: 130px;
+  height: 38px;
+  background: #f5f4fa;
+  border-radius: 4px;
+}
+.button-a {
+  cursor: pointer;
+
+  background: #2196f3;
+}
+,.button-a:hover {
+  background: #2196f3;
+  color: #ffffff;
+}
+.button-b {
+  cursor: pointer;
+
+  background: #f5f4fa;
+}
+.button-b:hover {
+background: #2196f3;
+color: #ffffff;
+}
+.button-c {
+  cursor: pointer;
+
+  background: #f5f4fa;
+}
+.button-c:hover {
+background: #2196f3;
+color: #ffffff;
+}
+.button-d {
+  cursor: pointer;
+
+  background: #f5f4fa;
+}
+.button-d:hover {
+background: #2196f3;
+color: #ffffff;
+}
+.button-e {
+  cursor: pointer;
+
+  background: #f5f4fa;
+}
+.button-e:hover {
+background: #2196f3;
+color: #ffffff;
+}
