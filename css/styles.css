@@ -24,7 +24,6 @@
 }
 .link {
   font-family: "Roboto";
-  font-weight: 500;
   font-size: 14px;
   line-height: 0.785;
   text-decoration: none;
@@ -38,13 +37,10 @@
 .top {
   width: 696px;
   height: 120px;
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 900;
+  text-align: center;
   font-size: 44px;
   line-height: 60px;
   color: #ffffff;
-  text-align: center;
 }
 .info {
   font-family: "Roboto";
@@ -123,7 +119,6 @@
 }
 .but2 {
   font-family: "Roboto";
-  font-style: normal;
   font-weight: 500;
   text-decoration: none;
   color: #212121;
@@ -136,7 +131,6 @@
 }
 .contacts {
   font-family: "Roboto";
-  font-style: normal;
   font-weight: 500;
   letter-spacing: 0.02em;
   text-decoration: none;
@@ -144,7 +138,6 @@
 }
 .product {
   font-family: "Roboto";
-  font-style: normal;
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
@@ -153,7 +146,6 @@
 }
 .description {
   font-family: "Roboto";
-  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
@@ -162,7 +154,6 @@
 }
 .place {
   font-family: "Roboto";
-  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
@@ -181,7 +172,6 @@
 }
 .button-a {
   font-family: "Roboto";
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   color: #ffffff;
@@ -193,7 +183,6 @@
 }
 .button-b {
   font-family: "Roboto";
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 26px;
@@ -217,7 +206,6 @@
 }
 .button-d {
   font-family: "Roboto";
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 26px;
@@ -229,7 +217,6 @@
 }
 .button-e {
   font-family: "Roboto";
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 26px;
@@ -244,7 +231,7 @@
 
   background: #2196f3;
 }
-,.button-a:hover {
+.button-a:hover {
   background: #2196f3;
   color: #ffffff;
 }
