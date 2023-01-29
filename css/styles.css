@@ -1,6 +1,13 @@
 .body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto","Arial" sans-serif;
   font-style: normal;
+}
+:root {
+  --var-color-text: #757575;
+  --var-color-fondo-hover-focus: #2196F3;
+  --var-colo-text-hover-focus: #FFFFFF;
+  --var-color-fondo: #2F303A;
+  --var-color-fondo1: #F5F4FA;
 }
 .title {
   font-family: "Raleway";
