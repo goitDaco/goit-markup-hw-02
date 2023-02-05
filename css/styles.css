@@ -1,55 +1,65 @@
-.body {
-  font-family: "Roboto","Arial" sans-serif;
+body {
+  font-family: "Raleway", sans-serif;
+  
+  font-size: 14px;
   font-style: normal;
+  color: #2f303a;
+  background-color: #ffffff;
 }
 :root {
   --var-color-text: #757575;
-  --var-color-fondo-hover-focus: #2196F3;
-  --var-colo-text-hover-focus: #FFFFFF;
-  --var-color-fondo: #2F303A;
-  --var-color-fondo1: #F5F4FA;
+  --var-color-fondo-hover-focus: #2196f3;
+  --var-colo-text-hover-focus: #ffffff;
+  --var-color-fondo: #2f303a;
+  --var-color-fondo1: #f5f4fa;
+}
+ul {
+  list-style: none;
 }
 .title {
   font-family: "Raleway";
-  font-weight: 70;
   font-size: 26px;
   color: #2196f3;
-  line-height: 1, 625;
+  letter-spacing: 0.03em;
   text-decoration: none;
 }
-.button1 {
+.link-1 {
   font-weight: 500;
-  cursor: pointer;
-  text-decoration: none;
+  line-height: 16px;
+  letter-spacing: 0.02em;
   color: #2196f3;
-}
-.butto {
-  font-weight: 500;
-  color: #212121;
-  cursor: pointer;
   text-decoration: none;
 }
 .link {
   font-family: "Roboto";
-  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #212121;
+  text-decoration: none;
+}
+.email {
+  color: #2196f3;
+  text-decoration: none;
+}
+.contact {
+  font-family: "Roboto";
   line-height: 0.785;
   text-decoration: none;
   color: #757575;
 }
-.link-line {
-  color: #2196f3;
-  text-decoration: none;
-}
 
 .top {
-  width: 696px;
-  height: 120px;
-  text-align: center;
+  font-family: "Roboto";
   font-size: 44px;
   line-height: 60px;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
   color: #ffffff;
 }
-.info {
+.button-index {
   font-family: "Roboto";
   font-weight: 700;
   font-size: 16px;
@@ -60,17 +70,18 @@
   height: 50px;
   background: #2196f3;
 }
-.sub {
+.specialties {
   font-family: "Roboto";
   font-weight: 700;
-  font-size: 14px;
-  line-height: 0.875;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+
   color: #212121;
 }
 .text {
   font-family: "Roboto";
   font-weight: 400;
-  font-size: 14px;
   line-height: 0.58;
   color: #757575;
 }
@@ -82,8 +93,6 @@
   color: #212121;
 }
 .name {
-  font-family: "Roboto";
-  font-weight: 500;
   font-size: 16px;
   color: #212121;
 }
@@ -94,22 +103,38 @@
   line-height: 0.84;
   color: #757575;
 }
-.place {
+.link-web {
+  font-family: "Raleway";
+  font-weight: 700;
+  font-size: 26px;
+  color: #2196f3;
+  line-height: 1, 625;
+  text-decoration: none;
+}
+.link2 {
   font-family: "Roboto";
   font-weight: 400;
-  font-size: 14px;
   line-height: 24px;
+  letter-spacing: 0.03em;
   color: #ffffff;
+  text-decoration: none;
 }
+.link3 {
+  font-family: "Roboto";
+  font-style: normal;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+  text-decoration: none;
+}
+
 .background {
   width: 1600px;
   left: -4px;
   top: 80px;
   background: #2f303a;
 }
-.lol {
-  width: 1600px;
-  height: 252px;
+.container-ftr {
   left: 0px;
   top: 2158px;
   background: #2f303a;
@@ -118,19 +143,19 @@
 
 .head {
   font-family: "Raleway";
-  font-weight: 70;
+  font-weight: 700;
   font-size: 26px;
   text-decoration: none;
   color: #2196f3;
   line-height: 1.625;
 }
-.but2 {
+.adolla-link2 {
   font-family: "Roboto";
   font-weight: 500;
   text-decoration: none;
   color: #212121;
 }
-.but1 {
+.adolla-link1 {
   color: #2196f3;
   font-weight: 500;
   text-decoration: none;
@@ -144,9 +169,6 @@
   color: #757575;
 }
 .product {
-  font-family: "Roboto";
-  font-weight: 700;
-  font-size: 18px;
   line-height: 36px;
   letter-spacing: 0.06em;
   color: #212121;
@@ -154,25 +176,9 @@
 .description {
   font-family: "Roboto";
   font-weight: 400;
-  font-size: 14px;
   line-height: 24px;
   letter-spacing: 0.03em;
   color: #757575;
-}
-.place {
-  font-family: "Roboto";
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 24px;
-  letter-spacing: 0.03em;
-  color: #ffffff;
-}
-.fond {
-  width: 1600px;
-  height: 252px;
-  left: 0px;
-  top: 2158px;
-  background: #2f303a;
 }
 .ul {
   list-style: none;
@@ -199,7 +205,7 @@
   background: #f5f4fa;
   border-radius: 4px;
 }
-.button-c{
+.button-c {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -248,8 +254,8 @@
   background: #f5f4fa;
 }
 .button-b:hover {
-background: #2196f3;
-color: #ffffff;
+  background: #2196f3;
+  color: #ffffff;
 }
 .button-c {
   cursor: pointer;
@@ -257,8 +263,8 @@ color: #ffffff;
   background: #f5f4fa;
 }
 .button-c:hover {
-background: #2196f3;
-color: #ffffff;
+  background: #2196f3;
+  color: #ffffff;
 }
 .button-d {
   cursor: pointer;
@@ -266,8 +272,8 @@ color: #ffffff;
   background: #f5f4fa;
 }
 .button-d:hover {
-background: #2196f3;
-color: #ffffff;
+  background: #2196f3;
+  color: #ffffff;
 }
 .button-e {
   cursor: pointer;
@@ -275,6 +281,6 @@ color: #ffffff;
   background: #f5f4fa;
 }
 .button-e:hover {
-background: #2196f3;
-color: #ffffff;
+  background: #2196f3;
+  color: #ffffff;
 }
